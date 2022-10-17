@@ -1,4 +1,4 @@
-#ALX Zero Day
+# ALX Zero Day
 
 This is the first repository as an ALX student
 
