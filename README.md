@@ -4,10 +4,10 @@ This is the first repository as an ALX student
 
 Here we are going to learn to use some tools for software development
 
-***emacs 
+**1.emacs**
 
-***vi 
+**2.vi**
 
-***git 
+**3.git** 
 
-***vagrant 
+**4.vagrant** 
